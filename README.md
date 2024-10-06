@@ -13,3 +13,5 @@ data by allowing users to perform the following operations:
 (*) Swing components are used to create a user-friendly interface, and MySQL serves as the backend for storing student information.
     This project demonstrates CRUD (Create, Read, Update, Delete) operations
     integrated within a Java-based desktop application.
+
+Note :- Requirements Netbeans, xampp, MySQL Query Browser. 
